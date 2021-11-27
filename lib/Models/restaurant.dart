@@ -20,6 +20,7 @@ class Restaurant {
       "Recommend": Food.generateRecommendFoods(),
       "Popular": Food.generatePopularFoods(),
       "Pizza": [],
+      "Noodles": [],
     });
   }
 }
